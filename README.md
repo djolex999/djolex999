@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║         CLASSIFIED — CLEARANCE LEVEL: PUBLIC                 ║
-║         FILE NO. DJM-1994 · ACCESSED: [CURRENT DATE]        ║
+║         FILE NO. DJM-1994 · ACCESSED: [CURRENT DATE]         ║
 ╚══════════════════════════════════════════════════════════════╝
 
 > SUBJECT: MARKOVIĆ, Đorđe
