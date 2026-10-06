@@ -1,63 +1,39 @@
-```
-╔══════════════════════════════════════════════════════════════╗
-║         CLASSIFIED — CLEARANCE LEVEL: PUBLIC                 ║
-║         FILE NO. DJM-1994 · ACCESSED: [CURRENT DATE]         ║
-╚══════════════════════════════════════════════════════════════╝
+# Đorđe Marković
 
-> SUBJECT: MARKOVIĆ, Đorđe
-> ALIAS..: djolex999
-> STATUS.: ACTIVE
-> ORIGIN.: 44.9°N 21.1°E — Serbia
+**Full-stack & AI engineer · Belgrade, Serbia**
 
-────────────────────────────────────────────────────────────────
-  SECTION 1 — CAPABILITIES
-────────────────────────────────────────────────────────────────
+I build production web apps and LLM systems that stay reliable. My focus is treating model output as a proposal to be verified, not as the source of truth.
 
-  LANGUAGES  ██████████ TypeScript
-             ██████████ JavaScript
-             ████████░░ Python
-             ███████░░░ SQL
+**Stack:** TypeScript · Next.js · React · Node.js · Python · Supabase · PostgreSQL · MongoDB · Claude API · OpenAI
 
-  FRAMEWORKS ▸ Next.js · React · Node/Express
-             ▸ Tailwind · MUI · Framer Motion
+---
 
-  DATABASES  ▸ MongoDB · Supabase · PostgreSQL
+## Selected work
 
-  AI OPS     ▸ Claude API · OpenAI · Hybrid model routing
-             ▸ SSE streaming · Prompt engineering
-             ▸ VisualDNA pipeline (PROPRIETARY)
+**[Pripremi.rs](https://pripremi.rs)** · Live
+AI lesson plan generator for Serbian teachers, with Paddle subscriptions.
+*Structured curriculum output from an LLM, billing built for the Serbian market.*
 
-────────────────────────────────────────────────────────────────
-  SECTION 2 — KNOWN OPERATIONS
-────────────────────────────────────────────────────────────────
+**[Vir](https://www.npmjs.com/package/@djolex999/vir-cli)** · Published on npm
+CLI that turns Claude Code session transcripts into a searchable knowledge base and exposes it to the agent mid-session through MCP tools.
 
-  [ACTIVE]   GROWTHQ .............. AI content engine for SMBs
-  [ACTIVE]   PRIPREMI.RS .......... AI lesson planner · EdTech
-  [DEV]      NOVERA ............... AI Influencer Studio
-  [DEV]      MOTORRA .............. Automotive marketplace · Kosovo
-  [RESEARCH] TEAMLENS ............. Engineering intelligence platform
-  [PARKED]   MAJSTORICA ........... Handyman marketplace · ex-YU
+**NAVIA** · In development
+Text RPG set in Slavic folk myth. An LLM narrates, a deterministic engine owns world state and checks every model proposal against the database.
+*Drift and rejection metrics, narration audits, nightly replay runs.*
 
-────────────────────────────────────────────────────────────────
-  SECTION 3 — FIELD NOTES
-────────────────────────────────────────────────────────────────
+**[GrowthQ](https://growthq.rs)** · In development, co-founded
+AI social media content engine for Balkan SMBs. Per-business master prompts feed a multi-stage idea and image pipeline.
 
-  Subject designs systems, not just features.
-  Ships before perfecting. Perfects while shipping.
-  Most classified operations not listed in public repositories.
-  Currently embedded at GrowthQ Lab DOO.
-  Mentor contact: GM level.
+**TAKT** · In development
+QR table ordering and POS for Serbian hospitality. Guest orders flow in real time to a bar tablet. Next.js + Supabase.
 
-────────────────────────────────────────────────────────────────
-  CONTACT PROTOCOL
-────────────────────────────────────────────────────────────────
+---
 
-  ▸ linkedin.com/in/djmarkovic
-  ▸ growthqlab.com
-  ▸ growthq.rs
+## Currently
 
-════════════════════════════════════════════════════════════════
-  ⚠ THIS FILE SELF-DESTRUCTS AFTER READING  ⚠
-  [NOT REALLY. BUT IT WOULD BE COOL IF IT DID.]
-════════════════════════════════════════════════════════════════
-```
+- Implementing micrograd from scratch (autograd engine and a small MLP), without AI assistance
+- Building GrowthQ with a co-founder as a side project, under [GrowthQ Lab](https://growthqlab.com)
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/djmarkovic) · djmarkovic999@gmail.com
