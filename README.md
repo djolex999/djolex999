@@ -21,7 +21,7 @@ CLI that turns Claude Code session transcripts into a searchable knowledge base 
 
 ## Currently
 
-- Implementing micrograd from scratch (autograd engine and a small MLP), without AI assistance
+- Rebuilding Karpathy's micrograd from scratch (a tiny autograd engine and a small MLP) to learn how it works, without AI assistance
 - Building **NAVIA**, a text RPG set in Slavic folk myth. An LLM narrates, a deterministic engine owns world state and checks every model proposal against the database.
 - Building **TAKT**, QR table ordering and POS for Serbian hospitality. Guest orders flow in real time to a bar tablet. Next.js + Supabase.
 - Co-founding **[GrowthQ](https://growthq.rs)**, an AI social media content engine for small businesses, as a side project under [GrowthQ Lab](https://growthqlab.com). Selected for the NTP Niš Launcher program.
